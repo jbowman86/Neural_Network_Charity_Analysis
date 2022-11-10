@@ -38,7 +38,8 @@ The EIN and NAME columns will not increase the accuracy of the model and can be 
 
 In the optimized model, layer 1 started with 120 neurons with a relu activation.  For layer 2, it increased to 80 neurons and continued with the relu activation.  The sigmoid activation seemed to be the better fit for layers 3 (40 neurons) and layer 4 (20 neurons).    
 
-INSERT IMAGE OF OPTIMIZATION DEEP LEARNING MODEL.PNG 
+![
+](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Optimization_Deep_Learning_Model.png)
 
 5. Were you able to achieve the target model performance?   
 
@@ -48,9 +49,11 @@ The target for the model was 75%, but the best the model could produce was 72.57
 
 Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dropped as well as increasing the number of neurons and layers.  Other activations were tried such as tanh, but the range that model produced went from 40% to 68% accuracy.  The linear activation produced the worst accuracy, around 28%.  The relu activation at the early layers and sigmoid activation at the latter layers gave the best results.  Additionally, the number of epochs was increased to 25, then increased to 50 and then once again to 100 in order to further improve the model’s performance.  
 
-INSERT EVALUATE MODEL INITIAL/PRIOR TO OPTIMIZATION
+![
+](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Evaluation_Model_Prior_to_Optimization.png)
 
-INSERT EVALUATE THEMODEL OPTIMIZATION MODEL.PNG
+![
+](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Evaluation_Model_Optimized.png)
 
 ### Summary:   
 
