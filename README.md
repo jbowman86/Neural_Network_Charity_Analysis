@@ -1,5 +1,4 @@
 # Neural_Network_Charity_Analysis
-Neural Networks and Deep Learning Models
 
 ## Overview 
 
@@ -14,9 +13,9 @@ Neural Networks and Deep Learning Models
 
 ## Purpose
 
-A foundation, Alphabet Soup, wants to predict where to make investments.  The goal is to use machine learning and neural networks to apply features on a provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.  The initial file has 34,000 organizations and a number of columns that capture metadata about each organization from past successful fundings.
+A charity foundation, Alphabet Soup, wants to predict which investments have the best opportunity for profitability.  The goal is to use machine learning and neural networks to apply features on a provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.  The initial file has 34,000 organizations and a number of columns that capture metadata about each organization from past successful fundings.
 
-## Results:
+## Results
 
 ### Data Preprocessing
 
