@@ -20,7 +20,7 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
 
 ### Data Preprocessing
 
-What variable(s) are considered the target(s) for your model?    
+1. What variable(s) are considered the target(s) for your model?    
 
 Checking to see if the target is marked as successful in the DataFrame, indicating that it has been successfully funded by AlphabetSoup.  
 
