@@ -51,7 +51,8 @@ Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dro
 ![
 ](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/a2ed587a011a82e9d017861401a8644002f9a9dc/Images/Evaluation_Model_Prior_to_Optimization.png)
 ![
-](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Evaluation_Model_Optimized.png)
+]
+(https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Evaluation_Model_Optimized.png)
 
 ### Summary:   
 
