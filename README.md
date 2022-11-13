@@ -49,8 +49,8 @@ The target for the model was 75%, but the best the model could produce was 72.57
 Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dropped as well as increasing the number of neurons and layers.  Other activations were tried such as tanh, but the range that model produced went from 40% to 68% accuracy.  The linear activation produced the worst accuracy, around 28%.  The relu activation at the early layers and sigmoid activation at the latter layers gave the best results.  Additionally, the number of epochs was increased to 25, then increased to 50 and then once again to 100 in order to further improve the model’s performance.  
 
 ![
-](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Evaluation_Model_Prior_to_Optimization.png)
-
+]
+(https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/a2ed587a011a82e9d017861401a8644002f9a9dc/Images/Evaluation_Model_Prior_to_Optimization.png)
 ![
 ](https://github.com/jbowman86/Neural_Network_Charity_Analysis/blob/80697d22763b7767ec03aa7589fc78fd3cac6311/Images/Evaluation_Model_Optimized.png)
 
