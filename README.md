@@ -42,7 +42,7 @@ In the optimized model, layer 1 started with 110 neurons with a relu activation.
 
 5. Were you able to achieve the target model performance?   
 
-The target for the model was 75%, but the best the model could produce was 72.57%.
+The target for the model was 75%, but the best the model could produce was 72.78%.
 
 6. What steps did you take to try and increase model performance?   
 
@@ -56,4 +56,4 @@ Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dro
 
 ### Summary:   
 
-The relu and sigmoid activations yielded a 72.57% accuracy, which is the best model produced using various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.  
+The relu and sigmoid activations yielded a 72.78% accuracy, which is the best model produced using various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.  
